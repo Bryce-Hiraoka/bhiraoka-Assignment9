@@ -1,3 +1,7 @@
+Video pt 1: https://youtu.be/0PxBEgx2q0E
+Video pt 2: https://youtu.be/A4yUMFjVx7o
+
+
 # Assignment 9: Neural Networks
 
 ---
